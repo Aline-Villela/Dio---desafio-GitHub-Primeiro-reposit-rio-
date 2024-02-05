@@ -1,0 +1,19 @@
+Link para fazer o dowload do Git: (https://git-scm.com/downloads)
+
+* criar uma pasta nova no PC com o título do seu projeto
+*Abrir o Git bach dentro desta pasta 
+ 
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+Comandos dentro do Git Bach 
+
+*git clone + o link do repositório para clonar um repositório para sua máquina
+
+*git status para exibir o status do diretório 
+
+*git add .  ou git -A  mover arquivos para o repositório movel 
+ git commit -m + o "comentário"  ex.  git commit -m "inclusão das anatações do curso de Git/GitHub"
+ git status 
+
+*git push origin main  enviar os arquivos para nuvem 
